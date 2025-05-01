@@ -88,7 +88,10 @@ For more information about the Catalog of Regulatory Science Tools, email RST_CD
 Tool Reference
 ----------
 •	RST Reference Number: RST24AI03.01
+
 •	Date of Publication: 05/07/2024
-•	Recommended Citation: U.S. Food and Drug Administration. (2024). BoneJ Headless: An Automated Python Tool for Bone Microstructure Analysis (RST24AI03.01). https://cdrh-rst.fda.gov/bonej-headless-automated-python-tool-bone-microstructure-analysis
+
+•	Recommended Citation: U.S. Food and Drug Administration. (2024). BoneJ Headless: An Automated Python Tool for Bone Microstructure Analysis (RST24AI03.01). 
+https://cdrh-rst.fda.gov/bonej-headless-automated-python-tool-bone-microstructure-analysis
 
 
